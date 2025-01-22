@@ -1,1 +1,3 @@
-# Credit_risk_analysis_with_ExplainableAI
+# Credit Risk Analysis Project
+
+Detailed project overview and setup instructions.
