@@ -1,14 +1,5 @@
-# Credit Risk Analysis and Explainable AI Dashboard
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/71aa3601-d68b-45e3-9694-067476e8c168" />
 
-This project develops a machine learning model to analyze credit risk and predict creditworthiness, integrating Explainable AI (XAI) for transparency and interpretability. The system includes an API for real-time predictions and an interactive dashboard for visualizing results.
-
-## Features
-
-- **Credit Risk Prediction:** Predicts the probability of loan defaults based on customer data using machine learning models.
-- **Explainable AI Integration:** Utilizes SHAP (SHapley Additive exPlanations) to provide clear, interpretable insights into model predictions and decisions.
-- **API Deployment:** Provides a RESTful API for seamless integration with other applications and real-time credit risk assessments.
-- **Interactive Dashboard:** Built using Streamlit, the dashboard visualizes creditworthiness scores and SHAP explanations, making it easier to understand the model’s predictions.
-- **Cloud Deployment:** Can be deployed on cloud platforms like Heroku or Render for easy access and usage.
 
 ## Project Structure
 
